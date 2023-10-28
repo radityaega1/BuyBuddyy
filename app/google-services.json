@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019799417517",
+    "project_id": "buybuddy-5ebbf",
+    "storage_bucket": "buybuddy-5ebbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019799417517:android:018ed95b3051e65b7b8c24",
+        "android_client_info": {
+          "package_name": "org.d3if4502.buybuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfjYPSX3Cnud93-4HMt6PTxAF5IvIv44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
